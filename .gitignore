@@ -1,0 +1,7 @@
+wt_config.json
+.wt-cache/
+__pycache__/
+*.pyc
+DAE/
+output/
+*.blend
